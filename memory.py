@@ -1,2 +1,1 @@
-a = 1
-print(len(str(a)))
+print(2 % 2)
