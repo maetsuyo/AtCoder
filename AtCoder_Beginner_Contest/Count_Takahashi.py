@@ -1,5 +1,6 @@
-names = []
 N = int(input())
+
+names = []
 for i in range(N):
     S = input()
     names.append(S)
