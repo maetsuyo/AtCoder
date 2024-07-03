@@ -9,5 +9,6 @@ reverse_list = []
 for j in range(L, R+1):
     reverse_list.append(j)
 
+reverse_list.reverse()
 print(num_list)
 print(reverse_list)
