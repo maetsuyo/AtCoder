@@ -1,3 +1,2 @@
-n = input().split()
-n = [int(i) for i in n]
-print(n)
+c = len([0,1,2])
+print(c)
