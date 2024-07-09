@@ -1,2 +1,2 @@
-c = len([0,1,2])
-print(c)
+name = ["takahashi", "takahashixx", "takahashix"]
+print(sorted(name))
