@@ -1,2 +1,5 @@
-name = ["takahashi", "takahashixx", "takahashix"]
-print(sorted(name))
+S = input()
+T = input()
+
+if S == T:
+    print("Yes")
