@@ -1,5 +1,8 @@
-S = input()
-T = input()
+N = int(input())
+A = []
 
-if S == T:
-    print("Yes")
+for i in range(N):
+    word = input()
+    A.append(list(word))
+
+print(A)
