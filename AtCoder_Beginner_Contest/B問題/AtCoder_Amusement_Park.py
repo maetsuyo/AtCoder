@@ -1,4 +1,5 @@
 N,K = map(int, input().split())
+print(N ,K)
 A = list(map(int, input().split()))
 
 vacant_seat = K
